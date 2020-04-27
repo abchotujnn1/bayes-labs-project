@@ -2,7 +2,7 @@
 projects on  drug discovery pipeline
 <!DOCTYPE html>
 <html>
-  <body>
+  <head>
     <h1>ADMET</h1>
     <Ol>
       <li>LogD</li>
@@ -12,5 +12,7 @@ projects on  drug discovery pipeline
       <li>hERg</li>
       <li>Metabolism of drugs</li>
     </Ol>
+  </head>
+  <body>
   </body>
 </html>
