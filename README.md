@@ -15,7 +15,7 @@ projects on  drug discovery pipeline
       <li>Metabolism of drugs</li>
     </ol>
     <ol>
-    <li><h1>Biological Pathway</h1></li>
+    <li start="2"><h1>Biological Pathway</h1></li>
      </ol>
   </head>
   <body>
