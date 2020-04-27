@@ -3,15 +3,18 @@ projects on  drug discovery pipeline
 <!DOCTYPE html>
 <html>
   <head>
-    <h1>ADMET</h1>
-    <Ol>
+    <ol>
+    <li><h1>ADMET</h1></li>
+    <li><h1>Biological Pathway</h1></li>
+    </ol>
+    <ol>
       <li>LogD</li>
       <li>LogP</li>
       <li>Aqeous solubility</li>
       <li>Clearance</li>
       <li>hERg</li>
       <li>Metabolism of drugs</li>
-    </Ol>
+    </ol>
   </head>
   <body>
     <h3>What is ADMET</h3>
