@@ -4,9 +4,6 @@ projects on  drug discovery pipeline
 <html>
   <head>
     <h1>ADMET</h1>
-    
-    <p></p>
-    <p></p>
     <Ol>
       <li>LogD</li>
       <li>LogP</li>
