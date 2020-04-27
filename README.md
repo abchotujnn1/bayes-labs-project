@@ -3,10 +3,10 @@ projects on  drug discovery pipeline
 <!DOCTYPE html>
 <html>
   <body>
-    <h1 style="background-color:redcolor:blue"> this is indrajeet project </h1>
-    <ul>
-      <li>this is 1st pro</li>
+    <h1>ADMET</h1>
+    <Ol>
+      <li></li>
       <li>this is second line</li>
-    </ul>
+    </Ol>
   </body>
 </html>
