@@ -14,8 +14,8 @@ projects on  drug discovery pipeline
       <li>hERg</li>
       <li>Metabolism of drugs</li>
     </ol>
-    <ol>
-    <li start="2"><h1>Biological Pathway</h1></li>
+    <ol start="2">
+    <li><h1>Biological Pathway</h1></li>
      </ol>
   </head>
   <body>
