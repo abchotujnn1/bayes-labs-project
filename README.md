@@ -5,8 +5,12 @@ projects on  drug discovery pipeline
   <body>
     <h1>ADMET</h1>
     <Ol>
-      <li></li>
-      <li>this is second line</li>
+      <li>LogD</li>
+      <li>LogP</li>
+      <li>Aqeous solubility</li>
+      <li>Clearance</li>
+      <li>hERg</li>
+      <li>Metabolism of drugs</li>
     </Ol>
   </body>
 </html>
